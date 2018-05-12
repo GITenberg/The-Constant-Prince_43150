@@ -1,0 +1,32 @@
+_repo: The-Constant-Prince_43150
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coleridge, Christabel R. (Christabel Rose)
+    aliases:
+    - Coleridge, C. R. (Christabel Rose)
+    - Coleridge, Christabel Rose
+    - Coleridge, C.R.
+    birthdate: 1843
+    deathdate: 1921
+    gutenberg_agent_id: '42030'
+    url: http://www.gutenberg.org/2009/agents/42030
+    wikipedia: https://en.wikipedia.org/wiki/Christabel_Rose_Coleridge
+description: ''
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Princes -- Juvenile fiction'
+title: The Constant Prince
+url: http://www.gutenberg.org/ebooks/43150
